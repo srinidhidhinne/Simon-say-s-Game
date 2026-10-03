@@ -1,0 +1,27 @@
+.btns{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    border-radius: 10px;
+    display: inline-flex;
+    justify-content: space-between;
+    margin: 10px;
+}
+#btn1{
+    background-color: aquamarine;
+}
+#btn2{
+    background-color: rgb(218, 236, 152);
+}
+#btn3{
+    background-color: rgb(135, 123, 201);
+}
+#btn4{
+    background-color: rgb(222, 174, 198);
+}
+.btns:hover{
+    box-shadow: 0 0 5px black ;
+}
+.flash{
+    background-color: aliceblue !important;
+}
